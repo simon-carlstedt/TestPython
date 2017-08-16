@@ -18,6 +18,7 @@ def hello():
 hello()
 
 print("etest")
+print("new testing for commit to github")
 
 plt.plot([1,2,3,4])
 plt.ylabel('some numbers')
