@@ -12,7 +12,10 @@ import pandas as pd
 
 def hello():
     """Print "Hello World" and return None"""
-    print("Hello World2")
+
+    print("Hello World")
+
+print("Hello World2")
 
 # main program starts here
 hello()
@@ -52,3 +55,4 @@ print(data.describe())  # Your output might differ sli
 
 data['2006':'2012'].plot()
 plt.show()
+
